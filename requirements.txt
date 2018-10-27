@@ -1,0 +1,4 @@
+chatterbot
+flask
+pymysql
+python-dotenv
